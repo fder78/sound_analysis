@@ -1,0 +1,7 @@
+dash==2.10.2
+librosa==0.10.0.post2
+matplotlib==3.7.0
+numpy==1.23.5
+gunicorn
+pandas
+dash-tools
